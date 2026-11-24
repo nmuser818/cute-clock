@@ -1,0 +1,12 @@
+﻿{
+    "mode":  "timer",
+    "seconds":  false,
+    "onTop":  true,
+    "style":  "volcano",
+    "left":  1176,
+    "h24":  false,
+    "date":  true,
+    "theme":  "plum",
+    "width":  320,
+    "top":  40
+}
